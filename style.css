@@ -1,0 +1,13 @@
+.input{
+    border: 1px solid red;
+    outline: red;
+    width: 250px;
+    height: 100px;
+}
+
+.input-success{
+    border: 1px solid green;
+    outline: green;
+    width: 250px;
+    height: 100px;
+}
